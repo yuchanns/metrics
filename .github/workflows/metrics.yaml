@@ -27,9 +27,3 @@ jobs:
           plugin_languages_recent_load: 500                             # Load up to 500 events to compute recently used stats
           plugin_languages_recent_days: 7                               # Limit recently used stats to last week
           commits_authoring: airamusume@gmail.com
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year # Display full year instead of half year
-          plugin_topics: yes
-          plugin_topics_sort: stars    # Sort by most starred topics
-          plugin_topics_mode: mastered # Display icons instead of labels
-          plugin_topics_limit: 0       # Disable limitations
