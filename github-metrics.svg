@@ -1535,8 +1535,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="456.0926383040511" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="456.0926383040511" y="0" width="3.9073616959488895" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="456.5956100955152" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="456.5956100955152" y="0" width="3.404389904484787" height="8" fill="#dea584"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1546,8 +1546,8 @@
                       Lua
                     </div>
                             <small>
-                                <div>13.6 kB</div>
-                                <div>99.15%</div>
+                                <div>15.6 kB</div>
+                                <div>99.26%</div>
                             </small>
                         </div>
                     </section>
@@ -1559,7 +1559,7 @@
                     </div>
                             <small>
                                 <div>117 bytes</div>
-                                <div>0.85%</div>
+                                <div>0.74%</div>
                             </small>
                         </div>
                     </section>
@@ -1567,7 +1567,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25/08/2021, 14:10  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 25/08/2021, 15:10  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
