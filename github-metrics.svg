@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="630" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="610" class="">
     <defs>
         <style/>
     </defs>
@@ -1528,16 +1528,15 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 26 edited files from 21 commits over last 7 days
+            estimation from 22 edited files from 18 commits over last 5 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="390.55131467345205" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="390.55131467345205" y="0" width="46.624257845631895" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="437.17557251908397" y="0" width="22.82442748091603" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="410.94154395359215" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="410.94154395359215" y="0" width="49.058456046407855" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1548,17 +1547,7 @@
                     </div>
                             <small>
                                 <div>2 kB</div>
-                                <div>84.9%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Rust
-                    </div>
-                            <small>
-                                <div>117 bytes</div>
-                                <div>4.96%</div>
+                                <div>89.34%</div>
                             </small>
                         </div>
                     </section>
@@ -1570,7 +1559,7 @@
                     </div>
                             <small>
                                 <div>239 bytes</div>
-                                <div>10.14%</div>
+                                <div>10.66%</div>
                             </small>
                         </div>
                     </section>
@@ -1578,7 +1567,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26/08/2021, 17:10  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 26/08/2021, 18:06  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
