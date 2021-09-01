@@ -1528,18 +1528,18 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 23 edited files from 15 commits over last 7 days
+            estimation from 23 edited files from 14 commits over last 6 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="179.73400431344356" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="179.73400431344356" y="0" width="125.33429187634796" height="8" fill="#005daa"/>
-                    <rect mask="url(#languages-bar)" x="305.0682961897915" y="0" width="63.163191948238676" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="368.2314881380302" y="0" width="52.25017972681524" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="420.48166786484546" y="0" width="39.518332135154566" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="196.62603224537946" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="196.62603224537946" y="0" width="137.1136453008258" height="8" fill="#005daa"/>
+                    <rect mask="url(#languages-bar)" x="333.7396775462053" y="0" width="69.09948879276445" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="402.83916633896973" y="0" width="43.232402674007076" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="446.07156901297685" y="0" width="13.9284309870232" height="8" fill="#000080"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1550,7 +1550,7 @@
                     </div>
                             <small>
                                 <div>1.09 kB</div>
-                                <div>39.07%</div>
+                                <div>42.74%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1560,17 +1560,17 @@
                     </div>
                             <small>
                                 <div>382 bytes</div>
-                                <div>13.73%</div>
+                                <div>15.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Go
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Lua
                     </div>
                             <small>
-                                <div>239 bytes</div>
-                                <div>8.59%</div>
+                                <div>77 bytes</div>
+                                <div>3.03%</div>
                             </small>
                         </div>
                     </section>
@@ -1582,17 +1582,17 @@
                     </div>
                             <small>
                                 <div>758 bytes</div>
-                                <div>27.25%</div>
+                                <div>29.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Lua
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Go
                     </div>
                             <small>
-                                <div>316 bytes</div>
-                                <div>11.36%</div>
+                                <div>239 bytes</div>
+                                <div>9.4%</div>
                             </small>
                         </div>
                     </section>
@@ -1600,7 +1600,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 01/09/2021, 18:11  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 01/09/2021, 19:10  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
