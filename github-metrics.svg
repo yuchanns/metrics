@@ -1528,18 +1528,18 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 30 edited files from 20 commits over last 7 days
+            estimation from 26 edited files from 19 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="327.62049247286734" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="327.62049247286734" y="0" width="58.35219978994048" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="385.9726922628078" y="0" width="40.690862411016454" height="8" fill="#005daa"/>
-                    <rect mask="url(#languages-bar)" x="426.66355467382425" y="0" width="20.50647683510328" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="447.17003150892754" y="0" width="12.82996849107247" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="150.23484434735118" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="150.23484434735118" y="0" width="136.54287274713272" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="286.7777170944839" y="0" width="95.21572910977608" height="8" fill="#005daa"/>
+                    <rect mask="url(#languages-bar)" x="381.99344620426" y="0" width="47.98470780993993" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="429.9781540141999" y="0" width="30.02184598580011" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1549,8 +1549,8 @@
                       Lua
                     </div>
                             <small>
-                                <div>6.10 kB</div>
-                                <div>71.22%</div>
+                                <div>1.20 kB</div>
+                                <div>32.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1560,7 +1560,7 @@
                     </div>
                             <small>
                                 <div>758 bytes</div>
-                                <div>8.85%</div>
+                                <div>20.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1570,7 +1570,7 @@
                     </div>
                             <small>
                                 <div>239 bytes</div>
-                                <div>2.79%</div>
+                                <div>6.53%</div>
                             </small>
                         </div>
                     </section>
@@ -1582,7 +1582,7 @@
                     </div>
                             <small>
                                 <div>1.09 kB</div>
-                                <div>12.69%</div>
+                                <div>29.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1592,7 +1592,7 @@
                     </div>
                             <small>
                                 <div>382 bytes</div>
-                                <div>4.46%</div>
+                                <div>10.43%</div>
                             </small>
                         </div>
                     </section>
@@ -1600,7 +1600,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 01/09/2021, 09:10  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 01/09/2021, 10:11  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
