@@ -1528,18 +1528,18 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 66 edited files from 16 commits over last 7 days
+            estimation from 62 edited files from 14 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.3374624065748" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="439.3374624065748" y="0" width="13.43373135217223" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="452.771193758747" y="0" width="3.711997141410833" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="456.48319090015787" y="0" width="2.3901974213143555" height="8" fill="#005daa"/>
-                    <rect mask="url(#languages-bar)" x="458.8733883214722" y="0" width="1.1266116785278264" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="445.88978376826486" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="445.88978376826486" y="0" width="12.862539476268907" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="458.7523232445337" y="0" width="1.0530530833043716" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="459.80537632783813" y="0" width="0.1285906405355173" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.9339669683736" y="0" width="0.06603303162634673" height="8" fill="#005daa"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1550,17 +1550,7 @@
                     </div>
                             <small>
                                 <div>128 kB</div>
-                                <div>95.51%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Makefile
-                    </div>
-                            <small>
-                                <div>1.08 kB</div>
-                                <div>0.81%</div>
+                                <div>96.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1569,8 +1559,18 @@
                       Lua
                     </div>
                             <small>
-                                <div>329 bytes</div>
-                                <div>0.24%</div>
+                                <div>303 bytes</div>
+                                <div>0.23%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#005daa" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Motorola 68K Assembly
+                    </div>
+                            <small>
+                                <div>19 bytes</div>
+                                <div>0.01%</div>
                             </small>
                         </div>
                     </section>
@@ -1581,18 +1581,18 @@
                       Rust
                     </div>
                             <small>
-                                <div>3.92 kB</div>
-                                <div>2.92%</div>
+                                <div>3.70 kB</div>
+                                <div>2.8%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#005daa" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Motorola 68K Assembly
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Makefile
                     </div>
                             <small>
-                                <div>698 bytes</div>
-                                <div>0.52%</div>
+                                <div>37 bytes</div>
+                                <div>0.03%</div>
                             </small>
                         </div>
                     </section>
@@ -1600,7 +1600,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 05/09/2021, 15:05  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 05/09/2021, 16:06  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
