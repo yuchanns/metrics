@@ -1528,18 +1528,18 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 66 edited files from 19 commits over last 7 days
+            estimation from 66 edited files from 16 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.1315153093493" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="439.1315153093493" y="0" width="13.427434056326499" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="452.5589493656758" y="0" width="3.720525317162097" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="456.2794746828379" y="0" width="2.5944417575058596" height="8" fill="#005daa"/>
-                    <rect mask="url(#languages-bar)" x="458.87391644034375" y="0" width="1.1260835596562373" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.3374624065748" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="439.3374624065748" y="0" width="13.43373135217223" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="452.771193758747" y="0" width="3.711997141410833" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="456.48319090015787" y="0" width="2.3901974213143555" height="8" fill="#005daa"/>
+                    <rect mask="url(#languages-bar)" x="458.8733883214722" y="0" width="1.1266116785278264" height="8" fill="#000080"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1550,7 +1550,7 @@
                     </div>
                             <small>
                                 <div>128 kB</div>
-                                <div>95.46%</div>
+                                <div>95.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1559,7 +1559,7 @@
                       Makefile
                     </div>
                             <small>
-                                <div>1.09 kB</div>
+                                <div>1.08 kB</div>
                                 <div>0.81%</div>
                             </small>
                         </div>
@@ -1591,8 +1591,8 @@
                       Motorola 68K Assembly
                     </div>
                             <small>
-                                <div>758 bytes</div>
-                                <div>0.56%</div>
+                                <div>698 bytes</div>
+                                <div>0.52%</div>
                             </small>
                         </div>
                     </section>
@@ -1600,7 +1600,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 05/09/2021, 14:06  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 05/09/2021, 15:05  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
