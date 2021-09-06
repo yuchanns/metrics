@@ -1535,11 +1535,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="445.2640632544664" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="445.2640632544664" y="0" width="13.486540318686625" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="458.75060357315306" y="0" width="1.0550458715596331" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="459.80564944471274" y="0" width="0.12841018831482376" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="459.9340596330276" y="0" width="0.06594036697247707" height="8" fill="#005daa"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="445.2976594685137" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="445.2976594685137" y="0" width="13.452849834759384" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="458.7505093032731" y="0" width="1.05512547723603" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="459.80563478050914" y="0" width="0.12841987716359576" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.93405465767273" y="0" width="0.06594534232725187" height="8" fill="#005daa"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1581,8 +1581,8 @@
                       Rust
                     </div>
                             <small>
-                                <div>3.89 kB</div>
-                                <div>2.93%</div>
+                                <div>3.88 kB</div>
+                                <div>2.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1600,7 +1600,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 06/09/2021, 09:11  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 06/09/2021, 10:10  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
