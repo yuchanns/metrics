@@ -1631,22 +1631,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="246.42857142857142" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="246.42857142857142" y="0" width="213.57142857142858" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="272.31329690346087" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="272.31329690346087" y="0" width="187.68670309653916" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Go
-                    </div>
-                            <small>
-                                <div>375 bytes</div>
-                                <div>53.57%</div>
-                            </small>
-                        </div>
-                    </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
@@ -1655,7 +1643,19 @@
                     </div>
                             <small>
                                 <div>325 bytes</div>
-                                <div>46.43%</div>
+                                <div>59.2%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Go
+                    </div>
+                            <small>
+                                <div>224 bytes</div>
+                                <div>40.8%</div>
                             </small>
                         </div>
                     </section>
@@ -1840,7 +1840,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28/09/2021, 22:06  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 28/09/2021, 23:06  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
