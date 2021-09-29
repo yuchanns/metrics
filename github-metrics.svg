@@ -1296,7 +1296,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1624,15 +1624,15 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 19 edited files from 18 commits over last 7 days
+            estimation from 19 edited files from 19 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="337.4791914387634" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="337.4791914387634" y="0" width="122.52080856123662" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="344.6136618141098" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="344.6136618141098" y="0" width="115.38633818589027" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1642,8 +1642,8 @@
                       Lua
                     </div>
                             <small>
-                                <div>617 bytes</div>
-                                <div>73.37%</div>
+                                <div>669 bytes</div>
+                                <div>74.92%</div>
                             </small>
                         </div>
                     </section>
@@ -1655,7 +1655,7 @@
                     </div>
                             <small>
                                 <div>224 bytes</div>
-                                <div>26.63%</div>
+                                <div>25.08%</div>
                             </small>
                         </div>
                     </section>
@@ -1840,7 +1840,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29/09/2021, 13:09  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 29/09/2021, 14:06  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
