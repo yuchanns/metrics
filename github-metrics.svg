@@ -1695,29 +1695,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 9 edited files from 3 commits over last 7 days
+            estimation from 4 edited files from 2 commits over last 1 day
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.57371225577265" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="439.57371225577265" y="0" width="20.426287744227352" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Lua
-                    </div>
-                            <small>
-                                <div>538 bytes</div>
-                                <div>95.56%</div>
-                            </small>
-                        </div>
-                    </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
@@ -1726,9 +1713,11 @@
                     </div>
                             <small>
                                 <div>25 bytes</div>
-                                <div>4.44%</div>
+                                <div>100%</div>
                             </small>
                         </div>
+                    </section>
+                    <section>
                     </section>
                 </div>
             </section>
@@ -1911,7 +1900,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 06/10/2021, 13:14  with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 06/10/2021, 14:11  with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
