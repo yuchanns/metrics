@@ -495,7 +495,7 @@
                                 Lua
                             </div>
                             <small>
-                                <div>6.55 kB</div>
+                                <div>6.54 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -655,7 +655,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Jan 2022, 00:12:47  with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 29 Jan 2022, 01:25:21  with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
