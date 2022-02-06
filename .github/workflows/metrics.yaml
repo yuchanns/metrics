@@ -36,3 +36,6 @@ jobs:
           plugin_reactions_days: 14                   # Compute reactions on issue comments posted less than 14 days ago
           plugin_reactions_details: count, percentage # Display reactions count and percentage
           plugin_reactions_ignored: bot               # Ignore "bot" user
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
