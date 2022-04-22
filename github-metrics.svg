@@ -483,9 +483,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="384.57804211541554" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="384.57804211541554" y="0" width="41.666934576434656" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="426.24497669185024" y="0" width="33.755023308149816" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="384.7326525689475" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="384.7326525689475" y="0" width="41.68368577631262" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="426.41633834526016" y="0" width="33.58366165473989" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -498,7 +498,7 @@
                             </div>
                             <small>
                                 <div>10.4 kB</div>
-                                <div>83.6%</div>
+                                <div>83.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -509,8 +509,8 @@
                                 Dockerfile
                             </div>
                             <small>
-                                <div>913 bytes</div>
-                                <div>7.34%</div>
+                                <div>908 bytes</div>
+                                <div>7.3%</div>
                             </small>
                         </div>
                     </section>
@@ -788,7 +788,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Apr 2022, 22:06:22  with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 22 Apr 2022, 23:06:14  with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
