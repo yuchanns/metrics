@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
           plugin_repositories: yes
-          plugin_repositories_featured: the-alchemists-of-arland/gray-matter-rs, LiSALADYBUG/ladybug, yuchanns/phpfmt.nvim, vpzk-ecosystem/vpzk
+          plugin_repositories_featured: the-alchemists-of-arland/gray-matter-rs, ladybugos/ladybug, vpzk-ecosystem/vpzk
           plugin_languages: yes
           plugin_languages_ignored: html, css, stylus, scss，renderscript             # List of languages to ignore
           plugin_languages_aliases: "JavaScript:JS, TypeScript:TS, ..." # Customize languages names with aliases
