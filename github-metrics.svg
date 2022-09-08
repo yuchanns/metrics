@@ -140,7 +140,7 @@
                 </h2>
                 <div class="row organization contributions">
                     <div class="organization contribution  ">
-                        <img class="organization avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAYAAABXuSs3AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAeUlEQVRoge3YQQoAIQxD0dz/0p1tNpWihakz/4H7ECKIEuaJl84xgovGa5iKmEoNUxFTqWEqungqGYI7GleOqTimogFT6RYENzS+wFTc6Ztj1FslQ3A1oHH1lEPjjsupBr+4nLuC4IbGF5iK4+9QF/8dBsG/3LgmegAOlKiC3F+cVQAAAABJRU5ErkJggg==" width="16" height="16" />
+                        <img class="organization avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAYAAABXuSs3AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAeUlEQVR4nO3YQQoAIQxD0dz/0p1tNpWihakz/4H7ECKIEuaJl84xgovGa5iKmEoNUxFTqWEqungqGYI7GleOqTimogFT6RYENzS+wFTc6Ztj1FslQ3A1oHH1lEPjjsupBr+4nLuC4IbGF5iK4+9QF/8dBsG/3LgmegAOlKiCha2ZSQAAAABJRU5ErkJggg==" width="16" height="16" />
                         <span class="name">@containerd</span>
                     </div>
                     <div class="organization contribution  ">
