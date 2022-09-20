@@ -14,7 +14,9 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header
+          base: header 
+          plugin_followup: yes
+          plugin_followup_sections: user
           plugin_repositories: yes
           plugin_repositories_featured: the-alchemists-of-arland/gray-matter-rs, ladybugos/ladybug, containerd/nerdctl
           plugin_languages: yes
