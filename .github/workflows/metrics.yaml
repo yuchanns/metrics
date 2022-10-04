@@ -21,12 +21,15 @@ jobs:
           plugin_repositories_featured: the-alchemists-of-arland/gray-matter-rs, ladybugos/ladybug, containerd/nerdctl
           plugin_languages: yes
           plugin_languages_ignored: html, css, stylus, scss, renderscript, JavaScript, vue           # List of languages to ignore
-          plugin_languages_aliases: "JavaScript:JS, TypeScript:TS, ..." # Customize languages names with aliases
+#           plugin_languages_aliases: "JavaScript:JS, TypeScript:TS, ..." # Customize languages names with aliases
           plugin_languages_details: bytes-size, percentage              # Additionally display total bytes size and percentage
           plugin_languages_threshold: 2%                               # Hides all languages less than 2%
           plugin_languages_limit: 4                                     # Display up to 8 languages
-          plugin_languages_sections: most-used                          # Display most used and recently used languages stats
-          plugin_languages_indepth: no                                  # Get indepth stats (see documentation before enabling)
+          plugin_languages_sections: recently-used                          # Display most used and recently used languages stats
+          plugin_languages_indepth: yes                                  # Get indepth stats (see documentation before enabling)
+          plugin_languages_recent_load: 400
+          plugin_languages_recent_days: 14
+          commits_authoring: me@yuchanns.xyz, airamusume@gmail.com
           plugin_notable: yes
           plugin_music: yes
           plugin_music_provider: spotify
