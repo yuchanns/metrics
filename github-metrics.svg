@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -168,14 +168,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.49mb of code in 1162 edited files across 779 commits</small>
+                <small>estimation from 2.49mb of code in 1161 edited files across 779 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.9984331411965" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="388.9984331411965" y="0" width="71.00156685880356" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.6260071137172" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="388.6260071137172" y="0" width="71.37399288628279" height="8" fill="#000080"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -188,7 +188,7 @@
                             </div>
                             <small>
                                 <div>297 kB</div>
-                                <div>84.56%</div>
+                                <div>84.48%</div>
                             </small>
                         </div>
                     </section>
@@ -201,8 +201,8 @@
                                 Lua
                             </div>
                             <small>
-                                <div>54.2 kB</div>
-                                <div>15.44%</div>
+                                <div>54.6 kB</div>
+                                <div>15.52%</div>
                             </small>
                         </div>
                     </section>
