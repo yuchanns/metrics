@@ -18,13 +18,13 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: user
           plugin_repositories: yes
-          plugin_repositories_featured: the-alchemists-of-arland/gray-matter-rs, lisa64lab/ladybug, containerd/nerdctl
+          plugin_repositories_featured: the-alchemists-of-arland/gray-matter-rs, containerd/nerdctl
           plugin_languages: yes
-          plugin_languages_ignored: html, css, stylus, scss, renderscript, JavaScript, vue           # List of languages to ignore
-#           plugin_languages_aliases: "JavaScript:JS, TypeScript:TS, ..." # Customize languages names with aliases
+          # plugin_languages_ignored: html, css, stylus, scss, renderscript, JavaScript, vue           # List of languages to ignore
+          # plugin_languages_aliases: "JavaScript:JS, TypeScript:TS, ..." # Customize languages names with aliases
           plugin_languages_details: bytes-size, percentage              # Additionally display total bytes size and percentage
           plugin_languages_threshold: 2%                               # Hides all languages less than 2%
-          plugin_languages_limit: 4                                     # Display up to 8 languages
+          plugin_languages_limit: 8                                     # Display up to 8 languages
           plugin_languages_sections: most-used                        # Display most used and recently used languages stats
           plugin_languages_indepth: yes                                  # Get indepth stats (see documentation before enabling)
           commits_authoring: me@yuchanns.xyz, airamusume@gmail.com
