@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -168,14 +168,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 259kb of code in 234 edited files across 70 commits over last 13 days</small>
+                <small>estimation from 265kb of code in 243 edited files across 76 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="405.0641219222484" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="405.0641219222484" y="0" width="54.9358780777516" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="408.26139304708903" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="408.26139304708903" y="0" width="51.73860695291095" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -187,8 +187,8 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>87.4 kB</div>
-                                <div>88.06%</div>
+                                <div>93.6 kB</div>
+                                <div>88.75%</div>
                             </small>
                         </div>
                     </section>
@@ -202,7 +202,7 @@
                             </div>
                             <small>
                                 <div>11.8 kB</div>
-                                <div>11.94%</div>
+                                <div>11.25%</div>
                             </small>
                         </div>
                     </section>
