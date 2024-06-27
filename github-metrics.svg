@@ -168,14 +168,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.58mb of code in 914 edited files across 209 commits over last 14 days</small>
+                <small>estimation from 1.59mb of code in 918 edited files across 210 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="305.62692354155996" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="305.62692354155996" y="0" width="154.37307645843998" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.69314594226444" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="307.69314594226444" y="0" width="152.30685405773556" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -187,8 +187,8 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>461 kB</div>
-                                <div>66.44%</div>
+                                <div>471 kB</div>
+                                <div>66.89%</div>
                             </small>
                         </div>
                     </section>
@@ -202,7 +202,7 @@
                             </div>
                             <small>
                                 <div>233 kB</div>
-                                <div>33.56%</div>
+                                <div>33.11%</div>
                             </small>
                         </div>
                     </section>
@@ -335,7 +335,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        957
+                                        958
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
